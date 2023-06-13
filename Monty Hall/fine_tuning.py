@@ -6,7 +6,7 @@ import pandas as pd
 openai.api_type = "azure"
 openai.api_base = "https://twelvechatgpt.openai.azure.com/"
 openai.api_version = "2023-05-15"
-openai.api_key = "6b5895c876b94f388052b73b6e10ce0b"
+openai.api_key = 
 
 
 # Set up messages 
